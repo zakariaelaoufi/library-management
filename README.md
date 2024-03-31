@@ -35,50 +35,62 @@ Facilitez le processus d’enregistrement des transactions de prêt au sein de l
 # Les interfaces
 📷 Images
 
-- Accueil
-![h](https://github.com/zakariaelaoufi/library-management/assets/57291410/bdfaa500-c3a9-47eb-b013-cf3872b8636d)
+### Login
 
-- Login
-![login](https://github.com/zakariaelaoufi/library-management/assets/57291410/159e5032-b37c-4874-ab81-a5a653a9eb7b)
+![Login](images/login.png)
 
-- Assistant Dashboard
-![assistantDashboard](https://github.com/zakariaelaoufi/library-management/assets/57291410/123fc4d1-67e5-4e39-a2d8-5cd3ae7f8fc5)
+### Assistant Dashboard
 
-- ajouter un nouveau livre
-![image](https://github.com/zakariaelaoufi/library-management/assets/57291410/bcc22f84-96c1-4145-a3c1-92635b85c90b)
+![Assistant Dashboard](images/assistantDashboard.png)
 
-- ajouter information du livre
-![image](https://github.com/zakariaelaoufi/library-management/assets/57291410/c4fd2f79-5886-4beb-86e6-1bd1f34ca441)
+### Add New Book
 
-- message qui demande la confirmation
-![image](https://github.com/zakariaelaoufi/library-management/assets/57291410/eab61517-a895-4008-95b5-46e2dcb41a6e)
+![Add New Book](images/addNewBook.png)
 
-- Consulter les livres
-![image](https://github.com/zakariaelaoufi/library-management/assets/57291410/93369502-36ae-4a52-831f-7b9fb88b847e)
+### Add Book Information
 
-- ajouter un nouveau exemplaire
-![image](https://github.com/zakariaelaoufi/library-management/assets/57291410/d35fefbf-a59f-4372-aa8a-5d33b84df076)
+![Add Book Information](images/addBookInfo.png)
 
-- Ajouter enseignant
-![adden](https://github.com/zakariaelaoufi/library-management/assets/57291410/7e5a4b36-546c-40b1-b8f8-ebcacaf20ccf)
+### Confirm Message
 
-- Consulter enseignant
-![consulteen](https://github.com/zakariaelaoufi/library-management/assets/57291410/f7873a42-51b5-4fcc-a885-1417074c9137)
+![Confirm Message](images/confirmMessage.png)
 
-- Bibliothécaire dashboard
-![image](https://github.com/zakariaelaoufi/library-management/assets/57291410/bfdc3cf2-0631-42a0-a5ef-461cd8714384)
+### View Books
 
-- emprunter un livre
-![image](https://github.com/zakariaelaoufi/library-management/assets/57291410/c309ce4d-95f3-49c8-ad71-b804de24d66f)
+![View Books](images/viewBooks.png)
 
-- emprunter un livre processus
-![image](https://github.com/zakariaelaoufi/library-management/assets/57291410/5e3a8ee4-6a54-4da6-8787-f7a309b222cf)
+### Add New Copy
 
-- emprunter un livre processus
-![image](https://github.com/zakariaelaoufi/library-management/assets/57291410/42bf517e-7062-4658-869f-7b8422a81c40)
+![Add New Copy](images/addNewCopy.png)
 
-- Envoyer email de relance
-![image](https://github.com/zakariaelaoufi/library-management/assets/57291410/b0cc0e05-e008-41e3-8603-cef8cadefdb9)
+### Add Teacher
 
-- Enregistrer retoure
-![image](https://github.com/zakariaelaoufi/library-management/assets/57291410/3304ee4d-8299-4a44-95da-4fc1135809fa)
+![Add Teacher](images/addTeacher.png)
+
+### View Teacher
+
+![View Teacher](images/viewTeacher.png)
+
+### Librarian Dashboard
+
+![Librarian Dashboard](images/librarianDashboard.png)
+
+### Borrow Book
+
+![Borrow Book](images/borrowBook.png)
+
+### Borrow Process 1
+
+![Borrow Process 1](images/borrowProcess1.png)
+
+### Borrow Process 2
+
+![Borrow Process 2](images/borrowProcess2.png)
+
+### Send Reminder Email
+
+![Send Reminder Email](images/sendReminderEmail.png)
+
+### Record Return
+
+![Record Return](images/recordReturn.png)
