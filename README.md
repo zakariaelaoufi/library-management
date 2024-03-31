@@ -24,6 +24,28 @@ The University Library Loan System is a comprehensive solution for managing docu
 
 - Facilitate the process of recording loan transactions within the library, ensuring proper tracking of loan duration, due dates, and notifications for users.
 
+## Description
+
+Le système de prêt des bibliothèques universitaires est une solution complète pour gérer les prêts de documents dans un environnement de bibliothèque universitaire. Ce système offre un suivi efficace des articles empruntés, des informations sur les utilisateurs et des fonctionnalités administratives pour les assistants de bibliothèque.
+
+## Principales caractéristiques
+
+### Gestion des utilisateurs
+
+- Ajoutez, modifiez ou supprimez des utilisateurs (étudiants et professeurs) avec des informations détaillées, notamment le nom, le prénom, les coordonnées et des attributs supplémentaires tels que l'adresse e-mail pour les professeurs et l'adresse pour les étudiants.
+
+### Gestion de documents
+
+- Classez les documents en livres ou en thèses, chacun avec des attributs spécifiques tels que l'ISBN, le titre, le(s) auteur(s), la date de publication, l'éditeur, le nombre d'exemplaires, les mots-clés et un résumé.
+
+### Gestion de l'inventaire
+
+- Gérez les livres avec plusieurs exemplaires, chacun identifié par un numéro d'inventaire et un statut, permettant un suivi efficace de l'état des articles et suggérant des actions telles que la réparation ou l'élimination.
+
+### Enregistrement du prêt
+
+- Faciliter le processus d'enregistrement des transactions de prêt au sein de la bibliothèque, en assurant un suivi approprié de la durée du prêt, des dates d'échéance et des notifications aux utilisateurs.
+
 ## Interfaces
 
 ### Login
