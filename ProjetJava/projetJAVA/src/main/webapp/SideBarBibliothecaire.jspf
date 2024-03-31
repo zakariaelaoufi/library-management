@@ -1,0 +1,69 @@
+<!-- sidebar -->
+
+    <div class="sticky h-screen md:flex flex-col w-96">
+    	<div class="fixed w-1/5">
+    	<div class="flex items-center justify-center h-16 bg-emerald-950">
+	            <span class="text-white font-bold uppercase">Gestion Bibliothéquaire</span>
+	        </div>
+        <div class="flex flex-col h-screen flex-1">
+            <nav class="flex-1 px-2 py-4 bg-emerald-900">
+                <a href="./dashboardBibliothecaire.jsp" class="flex items-center px-4 py-2 text-gray-100 hover:bg-emerald-700">
+					<svg class="w-6 h-6 mr-2" clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+					    <path d="m11.6 11c0-.552-.448-1-1-1-1.655 0-4.945 0-6.6 0-.552 0-1 .448-1 1v9c0 .552.448 1 1 1h6.6c.552 0 1-.448 1-1 0-2.092 0-6.908 0-9zm9.4 6c0-.552-.448-1-1-1h-6c-.538 0-1 .477-1 1v3c0 .552.448 1 1 1h6c.552 0 1-.448 1-1zm-1.5.5v2h-5v-2zm-9.4-6v8h-5.6v-8zm10.9-7.5c0-.552-.448-1-1-1-1.537 0-4.463 0-6 0-.552 0-1 .448-1 1v9.6c0 .552.448 1 1 1h6c.552 0 1-.448 1-1 0-2.194 0-7.406 0-9.6zm-1.5.5v8.6h-5v-8.6zm-7.9-.5c0-.552-.448-1-1-1-1.655 0-4.945 0-6.6 0-.552 0-1 .448-1 1v3.6c0 .552.448 1 1 1h6.6c.552 0 1-.448 1-1 0-1.017 0-2.583 0-3.6zm-1.5.5v2.6h-5.6v-2.6z" fill="#ffffff"/>
+					</svg>
+                    Dashboard
+                </a>
+                <hr class="m-2">
+                <a href="./emprunteLivre.jsp" class="flex items-center px-4 py-2 text-gray-100 hover:bg-emerald-700">
+                    <svg class="w-6 h-6 mr-2" version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" xml:space="preserve" fill="#ffffff">
+					    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+					    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+					    <g id="SVGRepo_iconCarrier">
+					        <style type="text/css">
+					            .st0{fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+					            .st1{fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3;}
+					            .st2{fill:none;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}
+					            .st3{fill:none;}
+					        </style>
+					        <line class="st0" x1="21" y1="15" x2="21" y2="11"></line>
+					        <polyline class="st0" points="23,12.1 21,10 19,12.1 "></polyline>
+					        <path class="st0" d="M3,24l2.6-4.2c1.5-2.3,4-3.8,6.8-3.8H19v0c0,2.2-1.8,4-4,4h-2"></path>
+					        <path class="st0" d="M15,20h8l1.2-1.6c1.1-1.5,2.9-2.4,4.8-2.4h0l-2.7,4.8c-1.4,2.6-4.2,4.2-7.1,4.2h0c-4.7,0-9.3,1.4-13.2,4l0,0"></path>
+					        <path class="st0" d="M26,16.8V5c0-0.6-0.4-1-1-1h-5v3h-4V4h-5c-0.6,0-1,0.4-1,1v11"></path>
+					        <line class="st0" x1="16" y1="4" x2="20" y2="4"></line>
+					        <rect x="-144" y="-504" class="st3" width="536" height="680"></rect>
+					    </g>
+					</svg> 
+                    Emprunté Livre
+                </a>
+                <a href="./gestionRetoure.jsp" class="flex items-center px-4 py-2 text-gray-100 hover:bg-emerald-700">
+                    <svg class="h-6 w-6 mr-2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+					    <path d="M16 10.975v13.025l-6-5.269-6 5.269v-24h6.816c-.553.576-1.004 1.251-1.316 2h-3.5v17.582l4-3.512 4 3.512v-8.763c.805.19 1.379.203 2 .156zm-.5-10.975c-2.486 0-4.5 2.015-4.5 4.5s2.014 4.5 4.5 4.5c2.484 0 4.5-2.015 4.5-4.5s-2.016-4.5-4.5-4.5zm-.469 6.484l-1.688-1.637.695-.697.992.94 2.115-2.169.697.696-2.811 2.867z" fill="#ffffff"/>
+					</svg>
+                    Engistrer Retoure
+                </a>
+                <hr class="m-2">
+                <a href="./EnvoyerRelance.jsp" class="flex items-center px-4 py-2 mt-2 text-gray-100 hover:bg-emerald-700">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-2" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M13 10V3L4 14h7v7l9-11h-7z" />
+                    </svg>
+                    Relancer Utilisateur
+                </a>
+                <a href="./RetardApres30jours.jsp" class="flex items-center px-4 py-2 mt-2 text-gray-100 hover:bg-emerald-700">
+                    <svg class="h-6 w-6 mr-2" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+					    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+					    <g id="SVGRepo_iconCarrier">
+					        <path d="M10.9023 19.8701H17.3723C21.0723 19.8701 21.9923 18.9501 21.9923 15.2501C20.7123 15.2501 19.6823 14.2101 19.6823 12.9401C19.6823 11.6601 20.7123 10.6201 21.9923 10.6201V9.70008C21.9923 6.00008 21.0723 5.08008 17.3723 5.08008H10.9923V11.8701" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+					        <path d="M10.9936 16.87V19.87H8.22356C6.74356 19.87 5.87357 18.86 4.91357 16.54L4.73356 16.09C5.94356 15.61 6.53357 14.21 6.02357 13C5.53357 11.79 4.14357 11.21 2.92357 11.71L2.75357 11.28C1.31356 7.76 1.81357 6.53 5.33357 5.08L7.97357 4L10.9936 11.32V13.87" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+					        <path d="M8.16219 19.8701H7.99219" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+					    </g>
+					</svg>
+                    Examplaire Perdu
+                </a>
+            </nav>
+        </div>
+    	</div>
+    </div>    
